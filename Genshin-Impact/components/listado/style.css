@@ -1,0 +1,15 @@
+.card--list{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid lightcyan;
+    border-radius: 15px;
+    width: 100%;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.info, .constellation, .passiveTalent, .talents{
+    width: 25%;
+}
